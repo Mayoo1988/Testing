@@ -1,0 +1,10 @@
+F:\SanjayGhodawat\RepositoryPattern\TeacherApp.core\bin\Debug\TeacherApp.core.dll
+F:\SanjayGhodawat\RepositoryPattern\TeacherApp.core\bin\Debug\TeacherApp.core.pdb
+F:\SanjayGhodawat\RepositoryPattern\TeacherApp.core\obj\Debug\TeacherApp.core.csprojResolveAssemblyReference.cache
+F:\SanjayGhodawat\RepositoryPattern\TeacherApp.core\obj\Debug\TeacherApp.core.dll
+F:\SanjayGhodawat\RepositoryPattern\TeacherApp.core\obj\Debug\TeacherApp.core.pdb
+C:\SanjayGhodawat\RepositoryPattern\TeacherApp.core\bin\Debug\TeacherApp.core.dll
+C:\SanjayGhodawat\RepositoryPattern\TeacherApp.core\bin\Debug\TeacherApp.core.pdb
+C:\SanjayGhodawat\RepositoryPattern\TeacherApp.core\obj\Debug\TeacherApp.core.csprojResolveAssemblyReference.cache
+C:\SanjayGhodawat\RepositoryPattern\TeacherApp.core\obj\Debug\TeacherApp.core.dll
+C:\SanjayGhodawat\RepositoryPattern\TeacherApp.core\obj\Debug\TeacherApp.core.pdb
